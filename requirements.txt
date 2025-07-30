@@ -8,4 +8,3 @@ langchain-pinecone
 langchain-huggingface
 langchain-core
 Pillow
-sentence-transformers
